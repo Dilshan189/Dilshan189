@@ -73,7 +73,7 @@
 
 <div align="center">
   <a href="mailto:dilshanrathnayaka0@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dilshanrathnayaka/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dilshanrathnayaka/"><img alt="LinkedIn" src="linkedin.com/in/dilshan-rathnayaka-59b3ab293.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/dilshan_dev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
