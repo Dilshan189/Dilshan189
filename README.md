@@ -22,7 +22,7 @@
 - 👨‍💻 I'm a passionate **Mobile App Developer** focused on real-world Flutter applications.
 - 📱 Built full-featured tools like **PDF lockers, splitters, editors, and text annotation apps**.
 - 🤖 Exploring the world of **AI and Machine Learning** — always learning and experimenting.
-- 💼 Final year BIT student, preparing for opportunities at top tech companies like **Google** and **IFS**.
+- 💼 Final year BIT student, preparing for opportunities at top tech companies.
 - 🌱 Actively diving deeper into [_Machine Learning_](https://www.coursera.org/browse/data-science/machine-learning) and [_AI_](https://www.deeplearning.ai/).
 
 ## 🛠 Tech Stack
